@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Educação Infantil / Pedagogo",
+    "category": "docencia",
+    "description": "Desenvolvimento infantil, práticas pedagógicas e educação da infância.",
+    "price": null,
+    "checkout": null
+  },
+  {
+    "title": "Anos Iniciais do Ensino Fundamental",
+    "category": "docencia",
+    "description": "Alfabetização, ensino e aprendizagem nos anos iniciais.",
+    "price": null,
+    "checkout": null
+  },
+  {
+    "title": "Atendimento Educacional Especializado — AEE",
+    "category": "apoio",
+    "description": "Educação inclusiva, acessibilidade e atendimento especializado.",
+    "price": null,
+    "checkout": null
+  },
+  {
+    "title": "Coordenação Pedagógica",
+    "category": "apoio",
+    "description": "Gestão pedagógica, currículo, planejamento e avaliação.",
+    "price": null,
+    "checkout": null
+  },
+  {
+    "title": "Ciências da Natureza (Ciências)",
+    "category": "docencia",
+    "description": "Biologia, Química, Física, Terra e legislação da educação.",
+    "price": null,
+    "checkout": null
+  },
+  {
+    "title": "História",
+    "category": "docencia",
+    "description": "Conhecimentos específicos de História e ensino da disciplina.",
+    "price": null,
+    "checkout": null
+  },
+  {
+    "title": "Geografia",
+    "category": "docencia",
+    "description": "Espaço geográfico, sociedade, natureza e ensino de Geografia.",
+    "price": null,
+    "checkout": null
+  },
+  {
+    "title": "Matemática",
+    "category": "docencia",
+    "description": "Conhecimentos específicos e ensino de Matemática.",
+    "price": null,
+    "checkout": null
+  },
+  {
+    "title": "Língua Portuguesa",
+    "category": "docencia",
+    "description": "Linguagem, literatura e ensino de Língua Portuguesa.",
+    "price": null,
+    "checkout": null
+  },
+  {
+    "title": "Língua Inglesa",
+    "category": "docencia",
+    "description": "Conhecimentos específicos e ensino de Língua Inglesa.",
+    "price": null,
+    "checkout": null
+  },
+  {
+    "title": "Arte",
+    "category": "docencia",
+    "description": "Linguagens artísticas e ensino de Arte.",
+    "price": null,
+    "checkout": null
+  },
+  {
+    "title": "Educação Física",
+    "category": "docencia",
+    "description": "Cultura corporal, práticas e ensino de Educação Física.",
+    "price": null,
+    "checkout": null
+  },
+  {
+    "title": "Cultura Digital",
+    "category": "docencia",
+    "description": "Tecnologias, cultura digital e educação.",
+    "price": null,
+    "checkout": null
+  },
+  {
+    "title": "Psicologia Educacional",
+    "category": "apoio",
+    "description": "Psicologia, desenvolvimento e aprendizagem no contexto escolar.",
+    "price": null,
+    "checkout": null
+  }
+]
