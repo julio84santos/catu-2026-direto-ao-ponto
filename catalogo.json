@@ -9,8 +9,22 @@
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/Professor_Educacao_Infantil.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/4WUYc2NXw_-5",
+    "samples": [
+      {
+        "src": "assets/amostras/Professor_Educacao_Infantil-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Professor_Educacao_Infantil-2.jpg",
+        "page": 156
+      }
+    ],
+    "shared": true,
+    "noEssay": false,
+    "aliases": "professor docente Educação Infantil / Pedagogo pedagogo pedagogia",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Professor_Series_Iniciais",
@@ -22,21 +36,49 @@
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/Professor_Series_Iniciais.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/-AGoUM1m2lkX",
+    "samples": [
+      {
+        "src": "assets/amostras/Professor_Series_Iniciais-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Professor_Series_Iniciais-2.jpg",
+        "page": 156
+      }
+    ],
+    "shared": true,
+    "noEssay": false,
+    "aliases": "professor docente Anos Iniciais do Ensino Fundamental séries iniciais pedagogo pedagogia",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Pedagogia",
     "title": "Pedagogia — formação comum",
-    "category": "apoio",
-    "description": "Base de Pedagogia para Séries Iniciais, Educação Infantil e Coordenação Pedagógica.",
+    "category": "formacao",
+    "description": "Formação comum em Pedagogia. Compartilha a base das apostilas de Educação Infantil, Anos Iniciais e Coordenação; não corresponde a um cargo separado.",
     "pages": 157,
     "questions": null,
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/Pedagogia.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/PXpe40hARwLN",
+    "samples": [
+      {
+        "src": "assets/amostras/Pedagogia-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Pedagogia-2.jpg",
+        "page": 148
+      }
+    ],
+    "shared": true,
+    "noEssay": false,
+    "aliases": "Pedagogia — formação comum",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Coordenador_Pedagogico",
@@ -48,8 +90,22 @@
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/Coordenador_Pedagogico.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/ZjThgA8gMYOe",
+    "samples": [
+      {
+        "src": "assets/amostras/Coordenador_Pedagogico-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Coordenador_Pedagogico-2.jpg",
+        "page": 156
+      }
+    ],
+    "shared": true,
+    "noEssay": false,
+    "aliases": "Coordenação Pedagógica",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "AEE",
@@ -61,8 +117,22 @@
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/AEE.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/6OdgAHaSNxsn",
+    "samples": [
+      {
+        "src": "assets/amostras/AEE-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/AEE-2.jpg",
+        "page": 147
+      }
+    ],
+    "shared": false,
+    "noEssay": false,
+    "aliases": "professor docente Atendimento Educacional Especializado — AEE",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Ciencias",
@@ -74,8 +144,22 @@
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/Ciencias.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/ekkmma4GfxnM",
+    "samples": [
+      {
+        "src": "assets/amostras/Ciencias-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Ciencias-2.jpg",
+        "page": 174
+      }
+    ],
+    "shared": false,
+    "noEssay": false,
+    "aliases": "professor docente Ciências da Natureza (Ciências)",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Historia",
@@ -87,8 +171,22 @@
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/Historia.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/Q7aKuNmOT1Ye",
+    "samples": [
+      {
+        "src": "assets/amostras/Historia-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Historia-2.jpg",
+        "page": 172
+      }
+    ],
+    "shared": false,
+    "noEssay": false,
+    "aliases": "professor docente História",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Geografia",
@@ -100,8 +198,22 @@
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/Geografia.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/-bDfP7d1hXAA",
+    "samples": [
+      {
+        "src": "assets/amostras/Geografia-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Geografia-2.jpg",
+        "page": 171
+      }
+    ],
+    "shared": false,
+    "noEssay": false,
+    "aliases": "professor docente Geografia",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Matematica",
@@ -113,8 +225,22 @@
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/Matematica.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/n2MiSfjxprMs",
+    "samples": [
+      {
+        "src": "assets/amostras/Matematica-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Matematica-2.jpg",
+        "page": 166
+      }
+    ],
+    "shared": false,
+    "noEssay": false,
+    "aliases": "professor docente Matemática",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Portugues",
@@ -126,8 +252,22 @@
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/Portugues.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/DLhiIzfeZnHB",
+    "samples": [
+      {
+        "src": "assets/amostras/Portugues-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Portugues-2.jpg",
+        "page": 155
+      }
+    ],
+    "shared": false,
+    "noEssay": false,
+    "aliases": "professor docente Língua Portuguesa",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Lingua_Inglesa",
@@ -139,8 +279,22 @@
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/Lingua_Inglesa.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/waEwVRW_2qCc",
+    "samples": [
+      {
+        "src": "assets/amostras/Lingua_Inglesa-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Lingua_Inglesa-2.jpg",
+        "page": 158
+      }
+    ],
+    "shared": false,
+    "noEssay": false,
+    "aliases": "professor docente Língua Inglesa",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Arte",
@@ -152,8 +306,22 @@
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/Arte.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/0EsbXQA6B7-7",
+    "samples": [
+      {
+        "src": "assets/amostras/Arte-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Arte-2.jpg",
+        "page": 177
+      }
+    ],
+    "shared": false,
+    "noEssay": false,
+    "aliases": "professor docente Arte",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Educacao_Fisica",
@@ -165,8 +333,22 @@
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/Educacao_Fisica.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/wvZAQsi57Wcv",
+    "samples": [
+      {
+        "src": "assets/amostras/Educacao_Fisica-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Educacao_Fisica-2.jpg",
+        "page": 160
+      }
+    ],
+    "shared": false,
+    "noEssay": false,
+    "aliases": "professor docente Educação Física",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Cultura_Digital",
@@ -178,8 +360,22 @@
     "simulado": 25,
     "redacao": true,
     "cover": "assets/capas/Cultura_Digital.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/Fs7qH5ViNRGT",
+    "samples": [
+      {
+        "src": "assets/amostras/Cultura_Digital-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Cultura_Digital-2.jpg",
+        "page": 157
+      }
+    ],
+    "shared": false,
+    "noEssay": false,
+    "aliases": "professor docente Cultura Digital",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Psicologo_Educacional",
@@ -191,8 +387,22 @@
     "simulado": 25,
     "redacao": false,
     "cover": "assets/capas/Psicologo_Educacional.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/zH7Kc-YV1r4d",
+    "samples": [
+      {
+        "src": "assets/amostras/Psicologo_Educacional-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Psicologo_Educacional-2.jpg",
+        "page": 157
+      }
+    ],
+    "shared": false,
+    "noEssay": true,
+    "aliases": "Psicologia Educacional",
+    "subjects": "Língua Portuguesa, Matemática, Conhecimentos Gerais/Atualidades e Conhecimentos Específicos da área."
   },
   {
     "id": "Assistente_Administrativo",
@@ -204,7 +414,76 @@
     "simulado": 25,
     "redacao": false,
     "cover": "assets/capas/Assistente_Administrativo.jpg",
-    "price": null,
-    "checkout": null
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/owDJldOKb_IV",
+    "samples": [
+      {
+        "src": "assets/amostras/Assistente_Administrativo-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Assistente_Administrativo-2.jpg",
+        "page": 125
+      }
+    ],
+    "shared": false,
+    "noEssay": true,
+    "aliases": "Assistente Administrativo",
+    "subjects": "Língua Portuguesa, Matemática e conhecimentos específicos."
+  },
+  {
+    "id": "Agente_de_Transito",
+    "title": "Agente de Trânsito",
+    "category": "administrativo",
+    "description": "Língua Portuguesa, Matemática e Legislação de Trânsito, com questões comentadas, simulado final e guia do TAF.",
+    "pages": 126,
+    "questions": null,
+    "simulado": 25,
+    "redacao": false,
+    "taf": true,
+    "cover": "assets/capas/Agente_de_Transito.jpg",
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/McjCZfNBsL_x",
+    "samples": [
+      {
+        "src": "assets/amostras/Agente_de_Transito-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Agente_de_Transito-2.jpg",
+        "page": 117
+      }
+    ],
+    "shared": false,
+    "noEssay": false,
+    "aliases": "Agente de Trânsito",
+    "subjects": "Língua Portuguesa, Matemática e conhecimentos específicos."
+  },
+  {
+    "id": "Fiscal_de_Meio_Ambiente",
+    "title": "Fiscal de Meio Ambiente",
+    "category": "administrativo",
+    "description": "Língua Portuguesa, Matemática e conhecimentos específicos de fiscalização ambiental, com questões comentadas e simulado final.",
+    "pages": 148,
+    "questions": null,
+    "simulado": 25,
+    "redacao": false,
+    "cover": "assets/capas/Fiscal_de_Meio_Ambiente.jpg",
+    "price": 19.9,
+    "checkout": "https://pay.wiapy.com/KM32XFCPanpe",
+    "subjects": "Conteúdos: Língua Portuguesa, Matemática, Política Nacional do Meio Ambiente, crimes e infrações ambientais, licenciamento, poluição, água, resíduos, florestas, unidades de conservação, ecologia e química ambiental.",
+    "samples": [
+      {
+        "src": "assets/amostras/Fiscal_de_Meio_Ambiente-1.jpg",
+        "page": 96
+      },
+      {
+        "src": "assets/amostras/Fiscal_de_Meio_Ambiente-2.jpg",
+        "page": 139
+      }
+    ],
+    "shared": false,
+    "noEssay": true,
+    "aliases": "Fiscal de Meio Ambiente"
   }
 ]
